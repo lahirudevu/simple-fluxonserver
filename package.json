@@ -1,0 +1,24 @@
+{
+  "name": "simple-fluxonserver",
+  "version": "1.0.0",
+  "description": "simple flux test for server side",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahirudevu/simple-fluxonserver.git"
+  },
+  "author": "madhumal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahirudevu/simple-fluxonserver/issues"
+  },
+  "homepage": "https://github.com/lahirudevu/simple-fluxonserver#readme"
+}
